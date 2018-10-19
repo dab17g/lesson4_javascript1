@@ -13,8 +13,7 @@ Dathan Busby
 In this project we helped design a calculator that converts total expenses in dollars to percentages of the total value.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://dab17g.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. It is very important to to be organized when creating a program. Getting confused can make the proccess a lot harder.
